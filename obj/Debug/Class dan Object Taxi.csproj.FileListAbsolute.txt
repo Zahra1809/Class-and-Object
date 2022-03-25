@@ -1,0 +1,6 @@
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\03\Class dan Object Taxi\Class dan Object Taxi\bin\Debug\Class dan Object Taxi.exe.config
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\03\Class dan Object Taxi\Class dan Object Taxi\obj\Debug\Class dan Object Taxi.csprojResolveAssemblyReference.cache
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\03\Class dan Object Taxi\Class dan Object Taxi\bin\Debug\Class dan Object Taxi.exe
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\03\Class dan Object Taxi\Class dan Object Taxi\bin\Debug\Class dan Object Taxi.pdb
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\03\Class dan Object Taxi\Class dan Object Taxi\obj\Debug\Class dan Object Taxi.exe
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\03\Class dan Object Taxi\Class dan Object Taxi\obj\Debug\Class dan Object Taxi.pdb
